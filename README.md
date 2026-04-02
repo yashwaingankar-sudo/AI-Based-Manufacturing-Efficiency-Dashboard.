@@ -119,9 +119,6 @@ Models were compared based on:
 - Operation mode selection  
 - Metric sensitivity controls
 
-  ## 📷 Dashboard Preview
-![Dashboard](https://drive.google.com/file/d/1UGEdru39E6mHD1pw_l4zYDUDld_SMzQ5/view?usp=drive_link)
-
 ---
 
 ## 📂 Project Files
