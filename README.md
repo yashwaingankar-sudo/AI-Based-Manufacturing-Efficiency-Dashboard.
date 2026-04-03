@@ -9,6 +9,13 @@
 ## 📌 Internship Project
 This project was developed during my internship and focuses on integrating **AI-driven analytics with Power BI** to monitor and improve manufacturing efficiency using sensor, production, and network data.
 
+b
+---
+
+## 📷 Dashboard Preview
+![Dashboard](AI%20Manufacturing%20Efficiency%20Dashboard.png)
+
+
 ---
 
 ## 🧩 Problem Statement
@@ -83,11 +90,6 @@ Models were compared based on:
 
 ---
 
-## 📷 Dashboard Preview
-![Dashboard](AI%20Manufacturing%20Efficiency%20Dashboard.png)
-
----
-
 ## 📈 Key Performance Indicators (KPIs)
 - Efficiency Class (High / Medium / Low)  
 - Prediction Confidence  
@@ -100,11 +102,19 @@ Models were compared based on:
 - Higher network latency correlates with increased defect rates  
 - Certain machines consistently underperform  
 - Operational modes significantly impact efficiency  
-- Temperature and error rates influence production output  
+- Temperature and error rates influence production output
 
 ---
 
-## 🌐 Streamlit Web App (Concept)
+## 💡 Business Recommendations
+- Reduce network latency to improve overall production efficiency  
+- Perform regular maintenance on underperforming machines  
+- Optimize operation modes to minimize defect rates  
+- Monitor high-risk conditions using real-time dashboards
+  
+---
+
+## 🌐 Future Scope
 - Real-time efficiency prediction dashboard  
 - Machine-level insights  
 - Explainability panel  
