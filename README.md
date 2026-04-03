@@ -9,7 +9,7 @@
 ## 📌 Internship Project
 This project was developed during my internship and focuses on integrating **AI-driven analytics with Power BI** to monitor and improve manufacturing efficiency using sensor, production, and network data.
 
-b
+
 ---
 
 ## 📷 Dashboard Preview
