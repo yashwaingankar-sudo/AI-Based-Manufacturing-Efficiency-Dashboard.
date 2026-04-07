@@ -142,6 +142,11 @@ Models were compared based on:
 
 ---
 
+## 📊 Project Explanation (Detailed PPT)
+📥 [Download Full Project Explanation](AI%20Based%20Manufacturing%20Efficiency%20Dashboard%20Explanation.pptx)
+
+---
+
 ## 🧾 Conclusion
 This project introduces AI-driven intelligence into smart manufacturing by automatically classifying production efficiency using sensor, quality, and network data.  
 
